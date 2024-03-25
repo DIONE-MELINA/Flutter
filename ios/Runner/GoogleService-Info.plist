@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAknSJEzfQZdkVNIO6A1-nzHNf5eI5G45w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>353023281468</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crudOperation</string>
+	<key>PROJECT_ID</key>
+	<string>simpleoperations-1d3bf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simpleoperations-1d3bf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:353023281468:ios:86e8cf5a37c7bbc54fb639</string>
+	<key>DATABASE_URL</key>
+	<string>https://simpleoperations-1d3bf-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
